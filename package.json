@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.14.0",
+  "description": "first_web_app",
+  "main": "urlcheck2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svetansu/Noob_Node.git"
+  },
+  "author": "Svetansu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Svetansu/Noob_Node/issues"
+  },
+  "homepage": "https://github.com/Svetansu/Noob_Node#readme"
+}
