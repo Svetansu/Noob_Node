@@ -4,6 +4,7 @@
   "description": "first_web_app",
   "main": "urlcheck2.js",
   "scripts": {
+  	"start": "node urlcheck2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
